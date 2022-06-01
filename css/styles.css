@@ -1,0 +1,71 @@
+body {
+  background-color: #E5EFF5;
+}
+
+h6 {
+  font-family: 'Karla', sans-serif;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+p {
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
+  margin: 5px auto;
+  color: #FFFFFF;
+}
+
+.container {
+  padding: 7% 20%;
+}
+
+/* Join Grid */
+
+.join-cont {
+  background-color: white;
+  padding: 20px 50px 20px 25px;
+}
+
+.join-header {
+  color: #2AB2AF;
+}
+
+.join-header2 {
+  color: #C0DF34;
+}
+
+.join-para {
+  color: 	#98A6BD;
+}
+
+.bigger {
+  font-size: 250%;
+}
+
+/* Subscription Grid */
+
+.subs-cont {
+  background-color: #006E7F;
+  padding: 20px 50px 20px 25px;
+}
+
+.sign-up-button {
+  margin-top: 30px;
+  background-color: #C0DF34;
+  border: none;
+}
+
+/* Why Us Grid */
+
+.why-cont {
+  background-color: #2AB2AF;
+  padding: 20px 50px 20px 25px;
+}
+
+  @media (max-width: 1020px){
+    .container {
+      /* padding: 20px 350px;
+      margin: 200px auto; */
+    }
+
+  }
